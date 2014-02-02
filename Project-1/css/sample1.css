@@ -1,0 +1,24 @@
+.div-style{
+	border:1px solid #999;
+	
+	
+	margin-top:10px;
+}
+
+#firstdiv{
+	position:fixed;
+	background: #ccc;
+	top:0px;
+	width:800px;
+	left:10px;
+	height:18px;
+
+}
+#seconddiv{
+	width:500px;
+	background: red;
+	position:relative;
+	top:10px;
+}
+
+
